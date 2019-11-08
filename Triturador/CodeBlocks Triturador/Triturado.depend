@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1573220933 source:c:\users\aaron\desktop\rinobot\c++\triturado\main.cpp
+	"Triturador.h"
+	<iostream>
+
+1573222748 c:\users\aaron\desktop\rinobot\c++\triturado\include\triturador.h
+	"Robot.h"
+
+1573221279 source:c:\users\aaron\desktop\rinobot\c++\triturado\src\triturador.cpp
+	"Triturador.h"
+	<iostream>
+
+1573223196 c:\users\aaron\desktop\rinobot\c++\triturado\include\robot.h
+	<iostream>
+

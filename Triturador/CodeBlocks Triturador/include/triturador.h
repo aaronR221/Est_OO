@@ -1,9 +1,8 @@
 #ifndef TRITURADOR_H
 #define TRITURADOR_H
-
-
-class Triturador
-{
+#include "Robot.h"
+class Triturador : public Robot
+    {
 private:
 	int Estrategia,TMotor,TSensor;
 public:
@@ -15,6 +14,7 @@ public:
 	int getTMotor();
 	void setEstrategia(int EST);
 	int getEstrategia();
+
 };
 
 #endif // Triturador
